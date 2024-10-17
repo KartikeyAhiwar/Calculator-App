@@ -6,7 +6,7 @@ class Calculator:
         master.title("CALCULATOR")
         master.geometry("550x760+0+0")
         master.resizable(True, True)
-        master.config(bg='light blue')
+        master.config(bg='black')
         
         self.equation = StringVar()
         self.equation.set("")
