@@ -12,7 +12,8 @@ A simple and interactive calculator application built using Python and Tkinter. 
 
 ## Screenshots
 
-![Calculator Screenshot]("C:\\Users\\asus\\Desktop\\Code\\Application of Python\\Python GUI\\App.png")
+![Calculator Screenshot](images/App.png)
+
 
 ## Technologies Used
 
